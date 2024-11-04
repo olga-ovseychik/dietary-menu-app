@@ -2,10 +2,6 @@
 <div align="center">
   <h3 align="center">Dietary-menu-app</h3>
 
-  <a href="https://notes-app-liard-mu.vercel.app/">
-    <img src="screenshot.png" alt="Logo" width="700"">
-  </a>
-
   <p align="center">
     <a href="https://dietary-menu-app.vercel.app/">View Demo ➡️</a>
   </p>
